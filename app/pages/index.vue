@@ -2,7 +2,7 @@
     <main>
         <HeroSection />
         <AboutSection />
-        <ServicesSection />
+        <ServiceSection />
         <!-- <TestimonialCarousel /> -->
         <FAQSection />
         <!-- <ContactSection /> -->

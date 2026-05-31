@@ -1,7 +1,9 @@
 # Acta de Retrospectiva y Plan de Mejora Continua
 
-**Proyecto:** Landing Page y CMS Centro de Negocios Santiago
-**Fecha de la sesión:** 31 de Mayo de 2026
+**Proyecto:** Landing Page y CMS Centro de Negocios Santiago.
+
+**Fecha de la sesión:** 31 de Mayo de 2026.
+
 **Participantes (Equipo de Desarrollo):** 
 * Mixiu Perez
 * Andrea Carreño
@@ -57,9 +59,7 @@ Reducir el volumen de código en el componente Admin.vue.
 Implementar los métodos `PUT/PATCH` en nuestros endpoints de `/server/api` y habilitar formularios de edición para todas las entidades del panel.
 Completar el 100% de las operaciones CRUD funcionales en la interfaz de administración.
 
-**Control de Versiones (Git Flow)**
+**Control de Versiones**
 * Establecer revisiones cruzadas obligatorias: ningún miembro fusionará su propio *Pull Request* hacia la rama `main` sin la revisión previa de un compañero.
-* **Meta:** Evitar integraciones inestables y asegurar la calidad del código mediante *Code Review*.
+* Evitar integraciones inestables y asegurar la calidad del código mediante *Code Review*.
 
----
-*Documento generado como evidencia de la cultura de excelencia y mejora continua de nuestro equipo de desarrollo.*

@@ -117,4 +117,4 @@ El desarrollo se gestionó mediante Git utilizando un flujo de trabajo basado en
 
 ## 8. Retrospectiva y Mejora Continua
 
-Tras nuestra sesión de evaluación grupal, definimos los siguientes puntos clave (puedes revisar el acta detallada y nuestro plan de acción completo en el archivo [`RETROSPECTIVA.md`](./RETROSPECTIVA.md)):
+Tras nuestra sesión de evaluación grupal, definimos los siguientes puntos clave (puedes revisar el acta detallada y nuestro plan de acción completo en el archivo [`RETROSPECTIVA.md`](./RETROSPECTIVA.md))

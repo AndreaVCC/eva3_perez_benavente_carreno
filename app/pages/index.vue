@@ -4,7 +4,7 @@
         <AboutSection />
         <ServiceSection />
         <!-- <TestimonialCarousel /> -->
-        <FAQSection />
+        <!-- <FAQSection /> -->
         <!-- <ContactSection /> -->
     </main>
 </template>

@@ -1,7 +1,11 @@
 <template>
     <main>
-        <!-- COMPONENTES -->
-         componentes
+        <HeroSection />
+        <AboutSection />
+        <ServicesSection />
+        <!-- <TestimonialCarousel /> -->
+        <FAQSection />
+        <!-- <ContactSection /> -->
     </main>
 </template>
 

@@ -44,7 +44,7 @@ La arquitectura se ha organizado para fomentar la reutilización, la modularidad
 
 ## 4. Guía de Buenas Prácticas
 
-Para garantizar la calidad técnica se aplicaron normativas estrictas de desarrollo (puedes revisar el detalle y la justificación completa en nuestra guía [`BUENAS-PRACTICAS.md`](./BUENAS-PRACTICAS.md)):
+Para garantizar la calidad técnica se aplicaron normativas estrictas de desarrollo (puedes revisar el detalle y la justificación completa en nuestra guía [`BUENAS-PRACTICAS.md`](./BUENAS-PRACTICAS.md))
 
 ## 5. Instrucciones de Instalación
 

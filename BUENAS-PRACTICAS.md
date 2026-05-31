@@ -1,5 +1,6 @@
 # Guía de Buenas Prácticas de Desarrollo Frontend
-**Proyecto:** Landing Page y CMS Centro de Negocios Santiago
+**Proyecto:** Landing Page y CMS Centro de Negocios Santiago.
+
 **Tecnologías Principales:** Nuxt 4, Vue 3, @nuxt/ui, Tailwind CSS, Pinia, Zod, Better-SQLite3
 
 Este documento establece los estándares y pautas aplicadas por nuestro equipo durante el desarrollo del proyecto, asegurando la mantenibilidad, accesibilidad y escalabilidad del código. Se detallan 10 prácticas fundamentales divididas por categorías.
